@@ -38,7 +38,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 				</Lifecycle>
 				<UI>
 					<Type>Panel</Type>
-					<Menu>Export audio info (do mixa)</Menu>
+					<Menu>Export Audio Info</Menu>
 					<Geometry>
 						<Size>
 							<Height>300</Height>
